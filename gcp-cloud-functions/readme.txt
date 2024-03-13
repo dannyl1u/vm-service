@@ -1,3 +1,5 @@
+## Runs newly added .tf files using Pub/Sub notification from Cloud Storage.
+
 1. Setup Cloud Storage Bucket and Pub/Sub
 
 # Replace my-bucket with your bucket name
