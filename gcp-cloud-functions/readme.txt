@@ -1,3 +1,5 @@
+## When a new file is added to bucket, function should automatically run it as a .tf file.
+
 1. Setup Cloud Storage Bucket and Pub/Sub
 
 # Replace my-bucket with your bucket name
